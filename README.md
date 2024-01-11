@@ -1,1 +1,2 @@
-# d7-merkle-tree
+# d6-farm
+HuyDB blockchain merkle tree tutorial
